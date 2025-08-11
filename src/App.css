@@ -1,0 +1,32 @@
+header {
+    background-image: url('./assets/worldmap.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parrotImg {
+    width: 95px;
+    height: 85px;
+}
+
+
+h1 {
+    color: #32CD32;
+    font-family: "Big Shoulders", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+p {
+    margin-top: 0;
+    color: #FFFFFF;
+}

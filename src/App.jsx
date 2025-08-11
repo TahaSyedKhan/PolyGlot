@@ -1,7 +1,9 @@
+import Header from "./Components/Header";
+
 export default function App() {
   return (
     <>
-      <h1>PolyGLot</h1>
+      <Header />
     </>
   )
 }
